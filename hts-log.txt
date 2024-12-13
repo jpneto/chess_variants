@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Dec 2024 09:00:31 at https://www.di.fc.ul.pt/~jpn/cv/index.htm +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.di.fc.ul.pt/~jpn/cv/index.htm -O1 "C:\Users\jpn3t\Dropbox\My Work\My Web Sites\chess variants" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:00:32	Warning: 	Found for https://www.di.fc.ul.pt/robots.txt
+09:00:32	Warning: 	File has moved from https://www.di.fc.ul.pt/robots.txt to http://www.ciencias.ulisboa.pt/pt/di
+09:00:50	Error: 	"Not Found" (404) at link https://www.di.fc.ul.pt/~jpn/cv/prodem.zrf (from https://www.di.fc.ul.pt/~jpn/cv/index.htm)
+09:00:50	Error: 	"Not Found" (404) at link https://www.di.fc.ul.pt/~jpn/cv/images.zip (from https://www.di.fc.ul.pt/~jpn/cv/index.htm)
+09:00:51	Error: 	"Not Found" (404) at link https://www.di.fc.ul.pt/~jpn/cv/cv_jpn.zip (from https://www.di.fc.ul.pt/~jpn/cv/index.htm)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 67 links scanned, 63 files written (916720 bytes overall) [377549 bytes received at 18877 bytes/sec], 729667 bytes transferred using HTTP compression in 44 files, ratio 23%
+(3 errors, 2 warnings, 0 messages)
